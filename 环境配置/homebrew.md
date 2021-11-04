@@ -29,3 +29,4 @@ https://www.bilibili.com/video/BV1E44y1r7uP
 eval $(/opt/homebrew/bin/brew shellenv)
 ```
 
+修改一下试试提交
