@@ -18,11 +18,13 @@
 https://www.bilibili.com/video/BV1E44y1r7uP
 
 1. 设置使用中科大镜像
-HOMEBREW_CORE_GIT_REMOTE=https://mirrors.ustc.edu.cn/homebrew-core.git
+`HOMEBREW_CORE_GIT_REMOTE=https://mirrors.ustc.edu.cn/homebrew-core.git`
  
 2. 安装homebrew
-/bin/bash -c "$(curl -fsSL https://cdn.jsdelivr.net/gh/ineo6/homebrew-install/install.sh)"
+`/bin/bash -c "$(curl -fsSL https://cdn.jsdelivr.net/gh/ineo6/homebrew-install/install.sh)"`
 
 3. 添加 Homebrew 到 /Users/你的用户名/.zprofile 文件的 PATH 中，执行下面命令即可:
-echo eval $(/opt/homebrew/bin/brew shellenv)  /Users/你的用户名/.zprofile
+
+```echo eval $(/opt/homebrew/bin/brew shellenv)  /Users/你的用户名/.zprofile 
 eval $(/opt/homebrew/bin/brew shellenv)
+```
