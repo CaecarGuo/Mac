@@ -29,4 +29,3 @@ https://www.bilibili.com/video/BV1E44y1r7uP
 eval $(/opt/homebrew/bin/brew shellenv)
 ```
 
-xianzaikeyibw funizhuo
