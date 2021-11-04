@@ -28,3 +28,5 @@ https://www.bilibili.com/video/BV1E44y1r7uP
 ```echo eval $(/opt/homebrew/bin/brew shellenv)  /Users/你的用户名/.zprofile 
 eval $(/opt/homebrew/bin/brew shellenv)
 ```
+
+xianzaikeyibw funizhuo
